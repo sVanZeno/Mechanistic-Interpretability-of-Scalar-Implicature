@@ -1,0 +1,2502 @@
+[
+  {
+    "premise": "Some teenagers criticize Guy.",
+    "hypotheses": {
+      "prag": "Not all teenagers criticize Guy.",
+      "impl": "All teenagers criticize Guy.",
+      "lit": "No teenagers criticize Guy."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -4.4375,
+        "impl": -3.78125,
+        "lit": -5.75
+      },
+      "nli": {
+        "prag": -4.03125,
+        "impl": -3.703125,
+        "lit": -4.71875
+      },
+      "discourse": {
+        "prag": -3.578125,
+        "impl": -3.65625,
+        "lit": -4.34375
+      }
+    }
+  },
+  {
+    "premise": "Some companies command universities to chat.",
+    "hypotheses": {
+      "prag": "Not all companies command universities to chat.",
+      "impl": "All companies command universities to chat.",
+      "lit": "No companies command universities to chat."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.25,
+        "impl": -3.0,
+        "lit": -4.03125
+      },
+      "nli": {
+        "prag": -2.71875,
+        "impl": -2.75,
+        "lit": -3.203125
+      },
+      "discourse": {
+        "prag": -2.46875,
+        "impl": -2.890625,
+        "lit": -3.0
+      }
+    }
+  },
+  {
+    "premise": "Some cashiers exercise.",
+    "hypotheses": {
+      "prag": "Not all cashiers exercise.",
+      "impl": "All cashiers exercise.",
+      "lit": "No cashiers exercise."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.3125,
+        "impl": -3.546875,
+        "lit": -4.46875
+      },
+      "nli": {
+        "prag": -3.078125,
+        "impl": -2.90625,
+        "lit": -3.25
+      },
+      "discourse": {
+        "prag": -2.75,
+        "impl": -3.21875,
+        "lit": -3.34375
+      }
+    }
+  },
+  {
+    "premise": "A lot of guys had hired some teachers.",
+    "hypotheses": {
+      "prag": "A lot of guys hadn't hired all teachers.",
+      "impl": "A lot of guys had hired all teachers.",
+      "lit": "A lot of guys had hired no teachers."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.046875,
+        "impl": -2.828125,
+        "lit": -2.765625
+      },
+      "nli": {
+        "prag": -2.8125,
+        "impl": -2.5625,
+        "lit": -2.5625
+      },
+      "discourse": {
+        "prag": -2.828125,
+        "impl": -2.546875,
+        "lit": -2.625
+      }
+    }
+  },
+  {
+    "premise": "Some men criticized Travis.",
+    "hypotheses": {
+      "prag": "Not all men criticized Travis.",
+      "impl": "All men criticized Travis.",
+      "lit": "No men criticized Travis."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -4.46875,
+        "impl": -3.921875,
+        "lit": -5.09375
+      },
+      "nli": {
+        "prag": -3.640625,
+        "impl": -3.21875,
+        "lit": -4.0625
+      },
+      "discourse": {
+        "prag": -3.609375,
+        "impl": -3.71875,
+        "lit": -4.15625
+      }
+    }
+  },
+  {
+    "premise": "Many customers go to some hills.",
+    "hypotheses": {
+      "prag": "Many customers don't go to all hills.",
+      "impl": "Many customers go to all hills.",
+      "lit": "Many customers go to no hills."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.453125,
+        "impl": -2.859375,
+        "lit": -3.078125
+      },
+      "nli": {
+        "prag": -2.0625,
+        "impl": -2.296875,
+        "lit": -2.5
+      },
+      "discourse": {
+        "prag": -2.09375,
+        "impl": -2.25,
+        "lit": -2.5
+      }
+    }
+  },
+  {
+    "premise": "A dog is ascending some hills.",
+    "hypotheses": {
+      "prag": "A dog isn't ascending all hills.",
+      "impl": "A dog is ascending all hills.",
+      "lit": "A dog is ascending no hills."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.75,
+        "impl": -3.421875,
+        "lit": -3.78125
+      },
+      "nli": {
+        "prag": -3.609375,
+        "impl": -3.015625,
+        "lit": -3.328125
+      },
+      "discourse": {
+        "prag": -3.40625,
+        "impl": -2.984375,
+        "lit": -3.28125
+      }
+    }
+  },
+  {
+    "premise": "Most actors wear some glasses.",
+    "hypotheses": {
+      "prag": "Most actors don't wear all glasses.",
+      "impl": "Most actors wear all glasses.",
+      "lit": "Most actors wear no glasses."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.515625,
+        "impl": -3.390625,
+        "lit": -3.109375
+      },
+      "nli": {
+        "prag": -2.671875,
+        "impl": -3.203125,
+        "lit": -2.953125
+      },
+      "discourse": {
+        "prag": -2.484375,
+        "impl": -3.140625,
+        "lit": -2.859375
+      }
+    }
+  },
+  {
+    "premise": "Some actresses write.",
+    "hypotheses": {
+      "prag": "Not all actresses write.",
+      "impl": "All actresses write.",
+      "lit": "No actresses write."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.75,
+        "impl": -3.859375,
+        "lit": -4.84375
+      },
+      "nli": {
+        "prag": -3.65625,
+        "impl": -3.65625,
+        "lit": -4.9375
+      },
+      "discourse": {
+        "prag": -3.421875,
+        "impl": -4.09375,
+        "lit": -4.875
+      }
+    }
+  },
+  {
+    "premise": "Some doctors had disagreed.",
+    "hypotheses": {
+      "prag": "Not all doctors had disagreed.",
+      "impl": "All doctors had disagreed.",
+      "lit": "No doctors had disagreed."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -4.53125,
+        "impl": -4.25,
+        "lit": -5.28125
+      },
+      "nli": {
+        "prag": -3.75,
+        "impl": -3.703125,
+        "lit": -4.375
+      },
+      "discourse": {
+        "prag": -3.515625,
+        "impl": -3.671875,
+        "lit": -4.34375
+      }
+    }
+  },
+  {
+    "premise": "Some actresses did react.",
+    "hypotheses": {
+      "prag": "Not all actresses did react.",
+      "impl": "All actresses did react.",
+      "lit": "No actresses did react."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -4.34375,
+        "impl": -3.75,
+        "lit": -5.125
+      },
+      "nli": {
+        "prag": -3.203125,
+        "impl": -3.0,
+        "lit": -3.59375
+      },
+      "discourse": {
+        "prag": -3.265625,
+        "impl": -3.46875,
+        "lit": -3.90625
+      }
+    }
+  },
+  {
+    "premise": "Some boys play.",
+    "hypotheses": {
+      "prag": "Not all boys play.",
+      "impl": "All boys play.",
+      "lit": "No boys play."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.421875,
+        "impl": -3.5,
+        "lit": -4.40625
+      },
+      "nli": {
+        "prag": -3.21875,
+        "impl": -3.125,
+        "lit": -3.828125
+      },
+      "discourse": {
+        "prag": -2.90625,
+        "impl": -3.5,
+        "lit": -3.796875
+      }
+    }
+  },
+  {
+    "premise": "The teacher resembles some sketches.",
+    "hypotheses": {
+      "prag": "The teacher doesn't resemble all sketches.",
+      "impl": "The teacher resembles all sketches.",
+      "lit": "The teacher resembles no sketches."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.109375,
+        "impl": -3.703125,
+        "lit": -3.328125
+      },
+      "nli": {
+        "prag": -2.875,
+        "impl": -3.296875,
+        "lit": -3.0625
+      },
+      "discourse": {
+        "prag": -2.78125,
+        "impl": -3.1875,
+        "lit": -3.046875
+      }
+    }
+  },
+  {
+    "premise": "This dancer would hire some customers.",
+    "hypotheses": {
+      "prag": "This dancer wouldn't hire all customers.",
+      "impl": "This dancer would hire all customers.",
+      "lit": "This dancer would hire no customers."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.75,
+        "impl": -2.609375,
+        "lit": -2.703125
+      },
+      "nli": {
+        "prag": -2.5,
+        "impl": -2.375,
+        "lit": -2.578125
+      },
+      "discourse": {
+        "prag": -2.546875,
+        "impl": -2.515625,
+        "lit": -2.703125
+      }
+    }
+  },
+  {
+    "premise": "Some dresses tighten.",
+    "hypotheses": {
+      "prag": "Not all dresses tighten.",
+      "impl": "All dresses tighten.",
+      "lit": "No dresses tighten."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.1875,
+        "impl": -3.15625,
+        "lit": -4.34375
+      },
+      "nli": {
+        "prag": -3.171875,
+        "impl": -3.03125,
+        "lit": -4.15625
+      },
+      "discourse": {
+        "prag": -2.875,
+        "impl": -3.015625,
+        "lit": -3.90625
+      }
+    }
+  },
+  {
+    "premise": "Karen explores some public parks.",
+    "hypotheses": {
+      "prag": "Karen doesn't explore all public parks.",
+      "impl": "Karen explores all public parks.",
+      "lit": "Karen explores no public parks."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.46875,
+        "impl": -3.90625,
+        "lit": -4.0625
+      },
+      "nli": {
+        "prag": -3.40625,
+        "impl": -3.375,
+        "lit": -4.03125
+      },
+      "discourse": {
+        "prag": -3.265625,
+        "impl": -3.578125,
+        "lit": -4.09375
+      }
+    }
+  },
+  {
+    "premise": "Regina exited some cafes.",
+    "hypotheses": {
+      "prag": "Regina didn't exit all cafes.",
+      "impl": "Regina exited all cafes.",
+      "lit": "Regina exited no cafes."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.046875,
+        "impl": -3.28125,
+        "lit": -3.796875
+      },
+      "nli": {
+        "prag": -2.609375,
+        "impl": -3.03125,
+        "lit": -3.5
+      },
+      "discourse": {
+        "prag": -2.3125,
+        "impl": -2.65625,
+        "lit": -3.234375
+      }
+    }
+  },
+  {
+    "premise": "Some boys forget about what tightens.",
+    "hypotheses": {
+      "prag": "Not all boys forget about what tightens.",
+      "impl": "All boys forget about what tightens.",
+      "lit": "No boys forget about what tightens."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.890625,
+        "impl": -2.609375,
+        "lit": -3.515625
+      },
+      "nli": {
+        "prag": -2.5625,
+        "impl": -2.328125,
+        "lit": -2.8125
+      },
+      "discourse": {
+        "prag": -2.375,
+        "impl": -2.453125,
+        "lit": -2.734375
+      }
+    }
+  },
+  {
+    "premise": "Most actors impress some organizations.",
+    "hypotheses": {
+      "prag": "Most actors don't impress all organizations.",
+      "impl": "Most actors impress all organizations.",
+      "lit": "Most actors impress no organizations."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.578125,
+        "impl": -3.109375,
+        "lit": -3.078125
+      },
+      "nli": {
+        "prag": -2.140625,
+        "impl": -2.453125,
+        "lit": -2.640625
+      },
+      "discourse": {
+        "prag": -2.09375,
+        "impl": -2.53125,
+        "lit": -2.765625
+      }
+    }
+  },
+  {
+    "premise": "Some cashiers had concealed David.",
+    "hypotheses": {
+      "prag": "Not all cashiers had concealed David.",
+      "impl": "All cashiers had concealed David.",
+      "lit": "No cashiers had concealed David."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.375,
+        "impl": -2.875,
+        "lit": -3.984375
+      },
+      "nli": {
+        "prag": -2.546875,
+        "impl": -2.28125,
+        "lit": -2.5
+      },
+      "discourse": {
+        "prag": -2.40625,
+        "impl": -2.375,
+        "lit": -2.53125
+      }
+    }
+  },
+  {
+    "premise": "Those guests do boast about some stories.",
+    "hypotheses": {
+      "prag": "Those guests don't boast about all stories.",
+      "impl": "Those guests do boast about all stories.",
+      "lit": "Those guests do boast about no stories."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.546875,
+        "impl": -3.0,
+        "lit": -2.9375
+      },
+      "nli": {
+        "prag": -1.96875,
+        "impl": -2.3125,
+        "lit": -2.375
+      },
+      "discourse": {
+        "prag": -2.109375,
+        "impl": -2.4375,
+        "lit": -2.5
+      }
+    }
+  },
+  {
+    "premise": "Thomas revealed some gates.",
+    "hypotheses": {
+      "prag": "Thomas didn't reveal all gates.",
+      "impl": "Thomas revealed all gates.",
+      "lit": "Thomas revealed no gates."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.640625,
+        "impl": -4.4375,
+        "lit": -4.59375
+      },
+      "nli": {
+        "prag": -2.84375,
+        "impl": -3.71875,
+        "lit": -4.03125
+      },
+      "discourse": {
+        "prag": -2.859375,
+        "impl": -3.78125,
+        "lit": -3.921875
+      }
+    }
+  },
+  {
+    "premise": "Some blouses had warped.",
+    "hypotheses": {
+      "prag": "Not all blouses had warped.",
+      "impl": "All blouses had warped.",
+      "lit": "No blouses had warped."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.796875,
+        "impl": -2.390625,
+        "lit": -3.453125
+      },
+      "nli": {
+        "prag": -2.640625,
+        "impl": -2.375,
+        "lit": -2.71875
+      },
+      "discourse": {
+        "prag": -2.28125,
+        "impl": -2.265625,
+        "lit": -2.65625
+      }
+    }
+  },
+  {
+    "premise": "Some customers might play.",
+    "hypotheses": {
+      "prag": "Not all customers might play.",
+      "impl": "All customers might play.",
+      "lit": "No customers might play."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.328125,
+        "impl": -3.453125,
+        "lit": -4.71875
+      },
+      "nli": {
+        "prag": -3.4375,
+        "impl": -3.53125,
+        "lit": -4.34375
+      },
+      "discourse": {
+        "prag": -3.203125,
+        "impl": -3.65625,
+        "lit": -4.5625
+      }
+    }
+  },
+  {
+    "premise": "Brett has healed some actresses.",
+    "hypotheses": {
+      "prag": "Brett hasn't healed all actresses.",
+      "impl": "Brett has healed all actresses.",
+      "lit": "Brett has healed no actresses."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.125,
+        "impl": -3.15625,
+        "lit": -3.765625
+      },
+      "nli": {
+        "prag": -2.96875,
+        "impl": -2.984375,
+        "lit": -3.578125
+      },
+      "discourse": {
+        "prag": -2.828125,
+        "impl": -3.046875,
+        "lit": -3.53125
+      }
+    }
+  },
+  {
+    "premise": "Some guys were cooking.",
+    "hypotheses": {
+      "prag": "Not all guys were cooking.",
+      "impl": "All guys were cooking.",
+      "lit": "No guys were cooking."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.671875,
+        "impl": -3.90625,
+        "lit": -4.5625
+      },
+      "nli": {
+        "prag": -3.734375,
+        "impl": -3.375,
+        "lit": -3.90625
+      },
+      "discourse": {
+        "prag": -3.703125,
+        "impl": -3.90625,
+        "lit": -4.03125
+      }
+    }
+  },
+  {
+    "premise": "Some waiters performed.",
+    "hypotheses": {
+      "prag": "Not all waiters performed.",
+      "impl": "All waiters performed.",
+      "lit": "No waiters performed."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.765625,
+        "impl": -3.5,
+        "lit": -4.28125
+      },
+      "nli": {
+        "prag": -3.203125,
+        "impl": -2.84375,
+        "lit": -3.09375
+      },
+      "discourse": {
+        "prag": -2.765625,
+        "impl": -2.8125,
+        "lit": -3.140625
+      }
+    }
+  },
+  {
+    "premise": "Some blouses warped.",
+    "hypotheses": {
+      "prag": "Not all blouses warped.",
+      "impl": "All blouses warped.",
+      "lit": "No blouses warped."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.703125,
+        "impl": -2.34375,
+        "lit": -3.171875
+      },
+      "nli": {
+        "prag": -2.640625,
+        "impl": -2.390625,
+        "lit": -2.765625
+      },
+      "discourse": {
+        "prag": -2.28125,
+        "impl": -2.328125,
+        "lit": -2.6875
+      }
+    }
+  },
+  {
+    "premise": "Some people were wearing the scarves.",
+    "hypotheses": {
+      "prag": "Not all people were wearing the scarves.",
+      "impl": "All people were wearing the scarves.",
+      "lit": "No people were wearing the scarves."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.5,
+        "impl": -2.4375,
+        "lit": -2.875
+      },
+      "nli": {
+        "prag": -2.3125,
+        "impl": -2.15625,
+        "lit": -2.453125
+      },
+      "discourse": {
+        "prag": -2.078125,
+        "impl": -2.171875,
+        "lit": -2.296875
+      }
+    }
+  },
+  {
+    "premise": "Some pants have frayed.",
+    "hypotheses": {
+      "prag": "Not all pants have frayed.",
+      "impl": "All pants have frayed.",
+      "lit": "No pants have frayed."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.828125,
+        "impl": -2.625,
+        "lit": -3.828125
+      },
+      "nli": {
+        "prag": -2.65625,
+        "impl": -2.515625,
+        "lit": -2.921875
+      },
+      "discourse": {
+        "prag": -2.28125,
+        "impl": -2.578125,
+        "lit": -3.0625
+      }
+    }
+  },
+  {
+    "premise": "Many senators tour some schools.",
+    "hypotheses": {
+      "prag": "Many senators don't tour all schools.",
+      "impl": "Many senators tour all schools.",
+      "lit": "Many senators tour no schools."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.21875,
+        "impl": -4.09375,
+        "lit": -4.28125
+      },
+      "nli": {
+        "prag": -2.65625,
+        "impl": -3.359375,
+        "lit": -3.578125
+      },
+      "discourse": {
+        "prag": -2.46875,
+        "impl": -3.1875,
+        "lit": -3.390625
+      }
+    }
+  },
+  {
+    "premise": "The actress could research some photographs.",
+    "hypotheses": {
+      "prag": "The actress couldn't research all photographs.",
+      "impl": "The actress could research all photographs.",
+      "lit": "The actress could research no photographs."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.1875,
+        "impl": -3.21875,
+        "lit": -3.359375
+      },
+      "nli": {
+        "prag": -2.953125,
+        "impl": -2.890625,
+        "lit": -3.09375
+      },
+      "discourse": {
+        "prag": -2.859375,
+        "impl": -2.796875,
+        "lit": -3.03125
+      }
+    }
+  },
+  {
+    "premise": "Some actors will predict many blouses to soak.",
+    "hypotheses": {
+      "prag": "Not all actors will predict many blouses to soak.",
+      "impl": "All actors will predict many blouses to soak.",
+      "lit": "No actors will predict many blouses to soak."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.296875,
+        "impl": -2.21875,
+        "lit": -2.84375
+      },
+      "nli": {
+        "prag": -1.8984375,
+        "impl": -1.703125,
+        "lit": -2.0625
+      },
+      "discourse": {
+        "prag": -1.9921875,
+        "impl": -2.03125,
+        "lit": -2.453125
+      }
+    }
+  },
+  {
+    "premise": "Some blouses shrank.",
+    "hypotheses": {
+      "prag": "Not all blouses shrank.",
+      "impl": "All blouses shrank.",
+      "lit": "No blouses shrank."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.96875,
+        "impl": -2.734375,
+        "lit": -3.515625
+      },
+      "nli": {
+        "prag": -2.78125,
+        "impl": -2.515625,
+        "lit": -2.734375
+      },
+      "discourse": {
+        "prag": -2.296875,
+        "impl": -2.359375,
+        "lit": -2.703125
+      }
+    }
+  },
+  {
+    "premise": "Derek passed some public parks.",
+    "hypotheses": {
+      "prag": "Derek didn't pass all public parks.",
+      "impl": "Derek passed all public parks.",
+      "lit": "Derek passed no public parks."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.90625,
+        "impl": -3.015625,
+        "lit": -3.296875
+      },
+      "nli": {
+        "prag": -2.8125,
+        "impl": -2.921875,
+        "lit": -3.265625
+      },
+      "discourse": {
+        "prag": -2.765625,
+        "impl": -2.953125,
+        "lit": -3.359375
+      }
+    }
+  },
+  {
+    "premise": "Janet has cared for some girls.",
+    "hypotheses": {
+      "prag": "Janet hasn't cared for all girls.",
+      "impl": "Janet has cared for all girls.",
+      "lit": "Janet has cared for no girls."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.703125,
+        "impl": -2.703125,
+        "lit": -3.078125
+      },
+      "nli": {
+        "prag": -2.5625,
+        "impl": -2.65625,
+        "lit": -3.0
+      },
+      "discourse": {
+        "prag": -2.453125,
+        "impl": -2.546875,
+        "lit": -2.921875
+      }
+    }
+  },
+  {
+    "premise": "Some women are needing the library to conspire.",
+    "hypotheses": {
+      "prag": "Not all women are needing the library to conspire.",
+      "impl": "All women are needing the library to conspire.",
+      "lit": "No women are needing the library to conspire."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.640625,
+        "impl": -2.3125,
+        "lit": -2.59375
+      },
+      "nli": {
+        "prag": -2.140625,
+        "impl": -1.8984375,
+        "lit": -2.109375
+      },
+      "discourse": {
+        "prag": -1.9765625,
+        "impl": -1.921875,
+        "lit": -2.09375
+      }
+    }
+  },
+  {
+    "premise": "Some drivers would research the governments.",
+    "hypotheses": {
+      "prag": "Not all drivers would research the governments.",
+      "impl": "All drivers would research the governments.",
+      "lit": "No drivers would research the governments."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.859375,
+        "impl": -2.75,
+        "lit": -3.25
+      },
+      "nli": {
+        "prag": -2.53125,
+        "impl": -2.296875,
+        "lit": -2.734375
+      },
+      "discourse": {
+        "prag": -2.4375,
+        "impl": -2.640625,
+        "lit": -2.84375
+      }
+    }
+  },
+  {
+    "premise": "Some jackets had shrunk.",
+    "hypotheses": {
+      "prag": "Not all jackets had shrunk.",
+      "impl": "All jackets had shrunk.",
+      "lit": "No jackets had shrunk."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.890625,
+        "impl": -2.625,
+        "lit": -3.609375
+      },
+      "nli": {
+        "prag": -2.640625,
+        "impl": -2.328125,
+        "lit": -2.734375
+      },
+      "discourse": {
+        "prag": -2.296875,
+        "impl": -2.359375,
+        "lit": -2.84375
+      }
+    }
+  },
+  {
+    "premise": "Some rabbits will leave.",
+    "hypotheses": {
+      "prag": "Not all rabbits will leave.",
+      "impl": "All rabbits will leave.",
+      "lit": "No rabbits will leave."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.484375,
+        "impl": -3.078125,
+        "lit": -4.59375
+      },
+      "nli": {
+        "prag": -2.921875,
+        "impl": -2.875,
+        "lit": -3.328125
+      },
+      "discourse": {
+        "prag": -2.703125,
+        "impl": -3.03125,
+        "lit": -3.578125
+      }
+    }
+  },
+  {
+    "premise": "Some patients forfeit.",
+    "hypotheses": {
+      "prag": "Not all patients forfeit.",
+      "impl": "All patients forfeit.",
+      "lit": "No patients forfeit."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.875,
+        "impl": -3.71875,
+        "lit": -4.6875
+      },
+      "nli": {
+        "prag": -3.203125,
+        "impl": -3.21875,
+        "lit": -3.796875
+      },
+      "discourse": {
+        "prag": -2.953125,
+        "impl": -3.46875,
+        "lit": -4.125
+      }
+    }
+  },
+  {
+    "premise": "Some waiters do reunite.",
+    "hypotheses": {
+      "prag": "Not all waiters do reunite.",
+      "impl": "All waiters do reunite.",
+      "lit": "No waiters do reunite."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.1875,
+        "impl": -2.828125,
+        "lit": -3.40625
+      },
+      "nli": {
+        "prag": -2.375,
+        "impl": -2.28125,
+        "lit": -2.640625
+      },
+      "discourse": {
+        "prag": -2.125,
+        "impl": -2.234375,
+        "lit": -2.59375
+      }
+    }
+  },
+  {
+    "premise": "The child remembers some ladies.",
+    "hypotheses": {
+      "prag": "The child doesn't remember all ladies.",
+      "impl": "The child remembers all ladies.",
+      "lit": "The child remembers no ladies."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.4375,
+        "impl": -3.078125,
+        "lit": -3.109375
+      },
+      "nli": {
+        "prag": -2.390625,
+        "impl": -2.75,
+        "lit": -2.828125
+      },
+      "discourse": {
+        "prag": -2.53125,
+        "impl": -3.109375,
+        "lit": -3.3125
+      }
+    }
+  },
+  {
+    "premise": "Some companies proposed to buy that pie.",
+    "hypotheses": {
+      "prag": "Not all companies proposed to buy that pie.",
+      "impl": "All companies proposed to buy that pie.",
+      "lit": "No companies proposed to buy that pie."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.921875,
+        "impl": -3.109375,
+        "lit": -4.15625
+      },
+      "nli": {
+        "prag": -2.46875,
+        "impl": -2.375,
+        "lit": -2.671875
+      },
+      "discourse": {
+        "prag": -2.5,
+        "impl": -2.578125,
+        "lit": -2.8125
+      }
+    }
+  },
+  {
+    "premise": "Sheila has returned to some grocery stores.",
+    "hypotheses": {
+      "prag": "Sheila hasn't returned to all grocery stores.",
+      "impl": "Sheila has returned to all grocery stores.",
+      "lit": "Sheila has returned to no grocery stores."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.625,
+        "impl": -2.453125,
+        "lit": -2.6875
+      },
+      "nli": {
+        "prag": -2.15625,
+        "impl": -2.0,
+        "lit": -2.203125
+      },
+      "discourse": {
+        "prag": -2.328125,
+        "impl": -2.21875,
+        "lit": -2.4375
+      }
+    }
+  },
+  {
+    "premise": "Some girls are saluting.",
+    "hypotheses": {
+      "prag": "Not all girls are saluting.",
+      "impl": "All girls are saluting.",
+      "lit": "No girls are saluting."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.03125,
+        "impl": -2.765625,
+        "lit": -3.796875
+      },
+      "nli": {
+        "prag": -2.65625,
+        "impl": -2.328125,
+        "lit": -2.828125
+      },
+      "discourse": {
+        "prag": -2.140625,
+        "impl": -2.296875,
+        "lit": -2.53125
+      }
+    }
+  },
+  {
+    "premise": "Martha could criticize some people.",
+    "hypotheses": {
+      "prag": "Martha couldn't criticize all people.",
+      "impl": "Martha could criticize all people.",
+      "lit": "Martha could criticize no people."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.0,
+        "impl": -3.046875,
+        "lit": -3.75
+      },
+      "nli": {
+        "prag": -2.484375,
+        "impl": -2.296875,
+        "lit": -3.0
+      },
+      "discourse": {
+        "prag": -2.59375,
+        "impl": -2.578125,
+        "lit": -3.359375
+      }
+    }
+  },
+  {
+    "premise": "Some gloves should loosen.",
+    "hypotheses": {
+      "prag": "Not all gloves should loosen.",
+      "impl": "All gloves should loosen.",
+      "lit": "No gloves should loosen."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.703125,
+        "impl": -2.390625,
+        "lit": -3.640625
+      },
+      "nli": {
+        "prag": -2.734375,
+        "impl": -2.6875,
+        "lit": -3.0
+      },
+      "discourse": {
+        "prag": -2.40625,
+        "impl": -2.40625,
+        "lit": -3.234375
+      }
+    }
+  },
+  {
+    "premise": "Amelia might exit some schools.",
+    "hypotheses": {
+      "prag": "Amelia might not exit all schools.",
+      "impl": "Amelia might exit all schools.",
+      "lit": "Amelia might exit no schools."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.46875,
+        "impl": -2.953125,
+        "lit": -3.59375
+      },
+      "nli": {
+        "prag": -2.484375,
+        "impl": -2.703125,
+        "lit": -3.5
+      },
+      "discourse": {
+        "prag": -2.375,
+        "impl": -2.46875,
+        "lit": -3.28125
+      }
+    }
+  },
+  {
+    "premise": "Some people had questioned Steven.",
+    "hypotheses": {
+      "prag": "Not all people had questioned Steven.",
+      "impl": "All people had questioned Steven.",
+      "lit": "No people had questioned Steven."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -4.0625,
+        "impl": -3.875,
+        "lit": -4.78125
+      },
+      "nli": {
+        "prag": -3.453125,
+        "impl": -3.25,
+        "lit": -3.671875
+      },
+      "discourse": {
+        "prag": -3.40625,
+        "impl": -3.515625,
+        "lit": -3.640625
+      }
+    }
+  },
+  {
+    "premise": "Some senators are trying to stun Larry.",
+    "hypotheses": {
+      "prag": "Not all senators are trying to stun Larry.",
+      "impl": "All senators are trying to stun Larry.",
+      "lit": "No senators are trying to stun Larry."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.171875,
+        "impl": -2.953125,
+        "lit": -3.640625
+      },
+      "nli": {
+        "prag": -2.375,
+        "impl": -2.078125,
+        "lit": -2.40625
+      },
+      "discourse": {
+        "prag": -2.34375,
+        "impl": -2.34375,
+        "lit": -2.421875
+      }
+    }
+  },
+  {
+    "premise": "Stephanie might escape from some guests.",
+    "hypotheses": {
+      "prag": "Stephanie might not escape from all guests.",
+      "impl": "Stephanie might escape from all guests.",
+      "lit": "Stephanie might escape from no guests."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.578125,
+        "impl": -2.5,
+        "lit": -2.90625
+      },
+      "nli": {
+        "prag": -2.359375,
+        "impl": -2.265625,
+        "lit": -2.6875
+      },
+      "discourse": {
+        "prag": -2.28125,
+        "impl": -2.265625,
+        "lit": -2.75
+      }
+    }
+  },
+  {
+    "premise": "Nina will describe some students.",
+    "hypotheses": {
+      "prag": "Nina won't describe all students.",
+      "impl": "Nina will describe all students.",
+      "lit": "Nina will describe no students."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.359375,
+        "impl": -3.390625,
+        "lit": -3.75
+      },
+      "nli": {
+        "prag": -2.9375,
+        "impl": -2.703125,
+        "lit": -3.234375
+      },
+      "discourse": {
+        "prag": -3.1875,
+        "impl": -2.96875,
+        "lit": -3.390625
+      }
+    }
+  },
+  {
+    "premise": "This patient could admire some cats.",
+    "hypotheses": {
+      "prag": "This patient couldn't admire all cats.",
+      "impl": "This patient could admire all cats.",
+      "lit": "This patient could admire no cats."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.4375,
+        "impl": -2.390625,
+        "lit": -2.65625
+      },
+      "nli": {
+        "prag": -2.515625,
+        "impl": -2.375,
+        "lit": -2.78125
+      },
+      "discourse": {
+        "prag": -2.375,
+        "impl": -2.421875,
+        "lit": -2.78125
+      }
+    }
+  },
+  {
+    "premise": "Some senators are longing to drink.",
+    "hypotheses": {
+      "prag": "Not all senators are longing to drink.",
+      "impl": "All senators are longing to drink.",
+      "lit": "No senators are longing to drink."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.53125,
+        "impl": -3.15625,
+        "lit": -4.53125
+      },
+      "nli": {
+        "prag": -2.828125,
+        "impl": -2.53125,
+        "lit": -3.203125
+      },
+      "discourse": {
+        "prag": -2.671875,
+        "impl": -2.5,
+        "lit": -3.140625
+      }
+    }
+  },
+  {
+    "premise": "Some people are tempting some dancers' brothers to reunite.",
+    "hypotheses": {
+      "prag": "Not all people are tempting some dancers' brothers to reunite.",
+      "impl": "All people are tempting some dancers' brothers to reunite.",
+      "lit": "No people are tempting some dancers' brothers to reunite."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.5,
+        "impl": -2.109375,
+        "lit": -2.640625
+      },
+      "nli": {
+        "prag": -2.203125,
+        "impl": -1.625,
+        "lit": -2.125
+      },
+      "discourse": {
+        "prag": -2.046875,
+        "impl": -1.84375,
+        "lit": -2.140625
+      }
+    }
+  },
+  {
+    "premise": "Aaron had talked about some cashiers.",
+    "hypotheses": {
+      "prag": "Aaron hadn't talked about all cashiers.",
+      "impl": "Aaron had talked about all cashiers.",
+      "lit": "Aaron had talked about no cashiers."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.125,
+        "impl": -2.96875,
+        "lit": -2.96875
+      },
+      "nli": {
+        "prag": -2.578125,
+        "impl": -2.484375,
+        "lit": -2.65625
+      },
+      "discourse": {
+        "prag": -2.71875,
+        "impl": -2.578125,
+        "lit": -2.765625
+      }
+    }
+  },
+  {
+    "premise": "Some organizations induced Jane's grandmother to move.",
+    "hypotheses": {
+      "prag": "Not all organizations induced Jane's grandmother to move.",
+      "impl": "All organizations induced Jane's grandmother to move.",
+      "lit": "No organizations induced Jane's grandmother to move."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.609375,
+        "impl": -2.359375,
+        "lit": -3.3125
+      },
+      "nli": {
+        "prag": -2.359375,
+        "impl": -2.109375,
+        "lit": -2.5625
+      },
+      "discourse": {
+        "prag": -2.21875,
+        "impl": -2.203125,
+        "lit": -2.53125
+      }
+    }
+  },
+  {
+    "premise": "Leslie should sell some pies.",
+    "hypotheses": {
+      "prag": "Leslie shouldn't sell all pies.",
+      "impl": "Leslie should sell all pies.",
+      "lit": "Leslie should sell no pies."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.890625,
+        "impl": -2.78125,
+        "lit": -3.046875
+      },
+      "nli": {
+        "prag": -2.171875,
+        "impl": -1.96875,
+        "lit": -2.1875
+      },
+      "discourse": {
+        "prag": -2.125,
+        "impl": -1.9609375,
+        "lit": -2.265625
+      }
+    }
+  },
+  {
+    "premise": "Andrew could approach some waitresses.",
+    "hypotheses": {
+      "prag": "Andrew couldn't approach all waitresses.",
+      "impl": "Andrew could approach all waitresses.",
+      "lit": "Andrew could approach no waitresses."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.0625,
+        "impl": -3.0,
+        "lit": -3.234375
+      },
+      "nli": {
+        "prag": -2.515625,
+        "impl": -2.28125,
+        "lit": -2.546875
+      },
+      "discourse": {
+        "prag": -2.390625,
+        "impl": -2.328125,
+        "lit": -2.703125
+      }
+    }
+  },
+  {
+    "premise": "Homer would heal some women.",
+    "hypotheses": {
+      "prag": "Homer wouldn't heal all women.",
+      "impl": "Homer would heal all women.",
+      "lit": "Homer would heal no women."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.71875,
+        "impl": -2.78125,
+        "lit": -3.5
+      },
+      "nli": {
+        "prag": -2.296875,
+        "impl": -2.296875,
+        "lit": -2.84375
+      },
+      "discourse": {
+        "prag": -2.484375,
+        "impl": -2.578125,
+        "lit": -3.125
+      }
+    }
+  },
+  {
+    "premise": "Some waiters remembered some students.",
+    "hypotheses": {
+      "prag": "Some waiters didn't remember all students.",
+      "impl": "Some waiters remembered all students.",
+      "lit": "Some waiters remembered no students."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.84375,
+        "impl": -2.609375,
+        "lit": -2.453125
+      },
+      "nli": {
+        "prag": -2.515625,
+        "impl": -2.15625,
+        "lit": -2.453125
+      },
+      "discourse": {
+        "prag": -2.265625,
+        "impl": -2.1875,
+        "lit": -2.53125
+      }
+    }
+  },
+  {
+    "premise": "Some people should reference the essays.",
+    "hypotheses": {
+      "prag": "Not all people should reference the essays.",
+      "impl": "All people should reference the essays.",
+      "lit": "No people should reference the essays."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.765625,
+        "impl": -2.890625,
+        "lit": -3.359375
+      },
+      "nli": {
+        "prag": -2.53125,
+        "impl": -2.390625,
+        "lit": -2.984375
+      },
+      "discourse": {
+        "prag": -2.46875,
+        "impl": -2.453125,
+        "lit": -3.078125
+      }
+    }
+  },
+  {
+    "premise": "Some screens had tipped over.",
+    "hypotheses": {
+      "prag": "Not all screens had tipped over.",
+      "impl": "All screens had tipped over.",
+      "lit": "No screens had tipped over."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.625,
+        "impl": -3.1875,
+        "lit": -4.0625
+      },
+      "nli": {
+        "prag": -3.0,
+        "impl": -2.984375,
+        "lit": -3.375
+      },
+      "discourse": {
+        "prag": -2.78125,
+        "impl": -2.890625,
+        "lit": -3.25
+      }
+    }
+  },
+  {
+    "premise": "Some bicycles do roll.",
+    "hypotheses": {
+      "prag": "Not all bicycles do roll.",
+      "impl": "All bicycles do roll.",
+      "lit": "No bicycles do roll."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.03125,
+        "impl": -2.734375,
+        "lit": -4.25
+      },
+      "nli": {
+        "prag": -2.78125,
+        "impl": -2.609375,
+        "lit": -3.5
+      },
+      "discourse": {
+        "prag": -2.484375,
+        "impl": -2.625,
+        "lit": -3.5625
+      }
+    }
+  },
+  {
+    "premise": "Some students had complained.",
+    "hypotheses": {
+      "prag": "Not all students had complained.",
+      "impl": "All students had complained.",
+      "lit": "No students had complained."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -4.09375,
+        "impl": -3.96875,
+        "lit": -4.6875
+      },
+      "nli": {
+        "prag": -3.390625,
+        "impl": -3.296875,
+        "lit": -3.625
+      },
+      "discourse": {
+        "prag": -3.546875,
+        "impl": -3.65625,
+        "lit": -3.71875
+      }
+    }
+  },
+  {
+    "premise": "Some actresses had longed to annoy this pedestrian.",
+    "hypotheses": {
+      "prag": "Not all actresses had longed to annoy this pedestrian.",
+      "impl": "All actresses had longed to annoy this pedestrian.",
+      "lit": "No actresses had longed to annoy this pedestrian."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.390625,
+        "impl": -2.125,
+        "lit": -2.65625
+      },
+      "nli": {
+        "prag": -2.015625,
+        "impl": -1.7890625,
+        "lit": -2.109375
+      },
+      "discourse": {
+        "prag": -2.140625,
+        "impl": -2.03125,
+        "lit": -2.28125
+      }
+    }
+  },
+  {
+    "premise": "Clyde does help some students.",
+    "hypotheses": {
+      "prag": "Clyde doesn't help all students.",
+      "impl": "Clyde does help all students.",
+      "lit": "Clyde does help no students."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.515625,
+        "impl": -3.046875,
+        "lit": -3.375
+      },
+      "nli": {
+        "prag": -2.15625,
+        "impl": -2.6875,
+        "lit": -3.078125
+      },
+      "discourse": {
+        "prag": -2.015625,
+        "impl": -2.59375,
+        "lit": -2.984375
+      }
+    }
+  },
+  {
+    "premise": "Some dancers are lifting the apple.",
+    "hypotheses": {
+      "prag": "Not all dancers are lifting the apple.",
+      "impl": "All dancers are lifting the apple.",
+      "lit": "No dancers are lifting the apple."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.921875,
+        "impl": -2.734375,
+        "lit": -3.640625
+      },
+      "nli": {
+        "prag": -2.578125,
+        "impl": -2.515625,
+        "lit": -2.890625
+      },
+      "discourse": {
+        "prag": -2.203125,
+        "impl": -2.421875,
+        "lit": -2.640625
+      }
+    }
+  },
+  {
+    "premise": "Some coats would loosen.",
+    "hypotheses": {
+      "prag": "Not all coats would loosen.",
+      "impl": "All coats would loosen.",
+      "lit": "No coats would loosen."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.671875,
+        "impl": -2.359375,
+        "lit": -3.078125
+      },
+      "nli": {
+        "prag": -2.609375,
+        "impl": -2.59375,
+        "lit": -2.9375
+      },
+      "discourse": {
+        "prag": -2.484375,
+        "impl": -2.625,
+        "lit": -3.140625
+      }
+    }
+  },
+  {
+    "premise": "Some men were leaving.",
+    "hypotheses": {
+      "prag": "Not all men were leaving.",
+      "impl": "All men were leaving.",
+      "lit": "No men were leaving."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -4.03125,
+        "impl": -3.671875,
+        "lit": -4.59375
+      },
+      "nli": {
+        "prag": -3.328125,
+        "impl": -2.984375,
+        "lit": -3.40625
+      },
+      "discourse": {
+        "prag": -3.140625,
+        "impl": -3.21875,
+        "lit": -3.421875
+      }
+    }
+  },
+  {
+    "premise": "Some adults have concealed the newspaper articles.",
+    "hypotheses": {
+      "prag": "Not all adults have concealed the newspaper articles.",
+      "impl": "All adults have concealed the newspaper articles.",
+      "lit": "No adults have concealed the newspaper articles."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.59375,
+        "impl": -2.65625,
+        "lit": -3.21875
+      },
+      "nli": {
+        "prag": -2.21875,
+        "impl": -2.0625,
+        "lit": -2.34375
+      },
+      "discourse": {
+        "prag": -2.0625,
+        "impl": -2.15625,
+        "lit": -2.53125
+      }
+    }
+  },
+  {
+    "premise": "Some dancers can chat.",
+    "hypotheses": {
+      "prag": "Not all dancers can chat.",
+      "impl": "All dancers can chat.",
+      "lit": "No dancers can chat."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.234375,
+        "impl": -3.328125,
+        "lit": -4.0625
+      },
+      "nli": {
+        "prag": -3.0625,
+        "impl": -3.15625,
+        "lit": -4.03125
+      },
+      "discourse": {
+        "prag": -2.640625,
+        "impl": -2.984375,
+        "lit": -3.75
+      }
+    }
+  },
+  {
+    "premise": "Some children questioned Keith.",
+    "hypotheses": {
+      "prag": "Not all children questioned Keith.",
+      "impl": "All children questioned Keith.",
+      "lit": "No children questioned Keith."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.984375,
+        "impl": -3.796875,
+        "lit": -4.75
+      },
+      "nli": {
+        "prag": -3.546875,
+        "impl": -3.21875,
+        "lit": -3.375
+      },
+      "discourse": {
+        "prag": -3.265625,
+        "impl": -3.40625,
+        "lit": -3.828125
+      }
+    }
+  },
+  {
+    "premise": "Some guests would wake up.",
+    "hypotheses": {
+      "prag": "Not all guests would wake up.",
+      "impl": "All guests would wake up.",
+      "lit": "No guests would wake up."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.0,
+        "impl": -2.796875,
+        "lit": -3.6875
+      },
+      "nli": {
+        "prag": -2.671875,
+        "impl": -2.6875,
+        "lit": -3.078125
+      },
+      "discourse": {
+        "prag": -2.640625,
+        "impl": -2.828125,
+        "lit": -3.1875
+      }
+    }
+  },
+  {
+    "premise": "Anna was driving to some schools.",
+    "hypotheses": {
+      "prag": "Anna wasn't driving to all schools.",
+      "impl": "Anna was driving to all schools.",
+      "lit": "Anna was driving to no schools."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.109375,
+        "impl": -2.71875,
+        "lit": -2.875
+      },
+      "nli": {
+        "prag": -2.46875,
+        "impl": -2.203125,
+        "lit": -2.375
+      },
+      "discourse": {
+        "prag": -2.96875,
+        "impl": -2.59375,
+        "lit": -2.765625
+      }
+    }
+  },
+  {
+    "premise": "The customers worries some companies.",
+    "hypotheses": {
+      "prag": "The customers doesn't worry all companies.",
+      "impl": "The customers worries all companies.",
+      "lit": "The customers worries no companies."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.25,
+        "impl": -3.5,
+        "lit": -3.984375
+      },
+      "nli": {
+        "prag": -2.890625,
+        "impl": -3.0625,
+        "lit": -3.640625
+      },
+      "discourse": {
+        "prag": -2.953125,
+        "impl": -3.015625,
+        "lit": -3.578125
+      }
+    }
+  },
+  {
+    "premise": "Some guys come here.",
+    "hypotheses": {
+      "prag": "Not all guys come here.",
+      "impl": "All guys come here.",
+      "lit": "No guys come here."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.25,
+        "impl": -3.296875,
+        "lit": -4.1875
+      },
+      "nli": {
+        "prag": -2.890625,
+        "impl": -2.734375,
+        "lit": -3.65625
+      },
+      "discourse": {
+        "prag": -2.765625,
+        "impl": -3.1875,
+        "lit": -3.53125
+      }
+    }
+  },
+  {
+    "premise": "Some doctors hid.",
+    "hypotheses": {
+      "prag": "Not all doctors hid.",
+      "impl": "All doctors hid.",
+      "lit": "No doctors hid."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -4.0625,
+        "impl": -4.34375,
+        "lit": -5.34375
+      },
+      "nli": {
+        "prag": -3.828125,
+        "impl": -4.15625,
+        "lit": -4.6875
+      },
+      "discourse": {
+        "prag": -3.53125,
+        "impl": -4.5,
+        "lit": -4.59375
+      }
+    }
+  },
+  {
+    "premise": "Patients talk about some actresses.",
+    "hypotheses": {
+      "prag": "Patients don't talk about all actresses.",
+      "impl": "Patients talk about all actresses.",
+      "lit": "Patients talk about no actresses."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.8125,
+        "impl": -3.25,
+        "lit": -3.609375
+      },
+      "nli": {
+        "prag": -2.75,
+        "impl": -2.9375,
+        "lit": -3.453125
+      },
+      "discourse": {
+        "prag": -2.515625,
+        "impl": -2.9375,
+        "lit": -3.390625
+      }
+    }
+  },
+  {
+    "premise": "Some horses ascended these stairs.",
+    "hypotheses": {
+      "prag": "Not all horses ascended these stairs.",
+      "impl": "All horses ascended these stairs.",
+      "lit": "No horses ascended these stairs."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.921875,
+        "impl": -2.59375,
+        "lit": -3.484375
+      },
+      "nli": {
+        "prag": -2.484375,
+        "impl": -2.125,
+        "lit": -2.59375
+      },
+      "discourse": {
+        "prag": -2.265625,
+        "impl": -2.296875,
+        "lit": -2.828125
+      }
+    }
+  },
+  {
+    "premise": "Winston Churchill had fixed some plates.",
+    "hypotheses": {
+      "prag": "Winston Churchill hadn't fixed all plates.",
+      "impl": "Winston Churchill had fixed all plates.",
+      "lit": "Winston Churchill had fixed no plates."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.59375,
+        "impl": -2.640625,
+        "lit": -2.765625
+      },
+      "nli": {
+        "prag": -2.203125,
+        "impl": -2.21875,
+        "lit": -2.5
+      },
+      "discourse": {
+        "prag": -2.25,
+        "impl": -2.25,
+        "lit": -2.53125
+      }
+    }
+  },
+  {
+    "premise": "Some adults had attacked that student.",
+    "hypotheses": {
+      "prag": "Not all adults had attacked that student.",
+      "impl": "All adults had attacked that student.",
+      "lit": "No adults had attacked that student."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.3125,
+        "impl": -3.296875,
+        "lit": -3.359375
+      },
+      "nli": {
+        "prag": -2.859375,
+        "impl": -2.453125,
+        "lit": -2.71875
+      },
+      "discourse": {
+        "prag": -2.8125,
+        "impl": -2.703125,
+        "lit": -3.0
+      }
+    }
+  },
+  {
+    "premise": "All sweaters hurt some dancers.",
+    "hypotheses": {
+      "prag": "All sweaters didn't hurt all dancers.",
+      "impl": "All sweaters hurt all dancers.",
+      "lit": "All sweaters hurt no dancers."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.0,
+        "impl": -2.625,
+        "lit": -3.03125
+      },
+      "nli": {
+        "prag": -2.78125,
+        "impl": -2.265625,
+        "lit": -2.71875
+      },
+      "discourse": {
+        "prag": -2.5,
+        "impl": -2.046875,
+        "lit": -2.5
+      }
+    }
+  },
+  {
+    "premise": "Some dancers will bring these hills.",
+    "hypotheses": {
+      "prag": "Not all dancers will bring these hills.",
+      "impl": "All dancers will bring these hills.",
+      "lit": "No dancers will bring these hills."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.8125,
+        "impl": -2.890625,
+        "lit": -3.53125
+      },
+      "nli": {
+        "prag": -2.59375,
+        "impl": -2.390625,
+        "lit": -2.765625
+      },
+      "discourse": {
+        "prag": -2.28125,
+        "impl": -2.515625,
+        "lit": -2.71875
+      }
+    }
+  },
+  {
+    "premise": "Julie looked like some paintings.",
+    "hypotheses": {
+      "prag": "Julie didn't look like all paintings.",
+      "impl": "Julie looked like all paintings.",
+      "lit": "Julie looked like no paintings."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.15625,
+        "impl": -3.375,
+        "lit": -3.046875
+      },
+      "nli": {
+        "prag": -2.71875,
+        "impl": -2.96875,
+        "lit": -2.765625
+      },
+      "discourse": {
+        "prag": -2.5625,
+        "impl": -2.75,
+        "lit": -2.578125
+      }
+    }
+  },
+  {
+    "premise": "This spotlight was distracting some banks.",
+    "hypotheses": {
+      "prag": "This spotlight wasn't distracting all banks.",
+      "impl": "This spotlight was distracting all banks.",
+      "lit": "This spotlight was distracting no banks."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.671875,
+        "impl": -2.921875,
+        "lit": -3.25
+      },
+      "nli": {
+        "prag": -2.234375,
+        "impl": -2.3125,
+        "lit": -2.703125
+      },
+      "discourse": {
+        "prag": -2.21875,
+        "impl": -2.3125,
+        "lit": -2.6875
+      }
+    }
+  },
+  {
+    "premise": "These senators can exit some lakes.",
+    "hypotheses": {
+      "prag": "These senators can't exit all lakes.",
+      "impl": "These senators can exit all lakes.",
+      "lit": "These senators can exit no lakes."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.875,
+        "impl": -3.375,
+        "lit": -3.703125
+      },
+      "nli": {
+        "prag": -2.265625,
+        "impl": -2.296875,
+        "lit": -2.890625
+      },
+      "discourse": {
+        "prag": -2.328125,
+        "impl": -2.34375,
+        "lit": -2.890625
+      }
+    }
+  },
+  {
+    "premise": "Those waiters will remember some plays.",
+    "hypotheses": {
+      "prag": "Those waiters won't remember all plays.",
+      "impl": "Those waiters will remember all plays.",
+      "lit": "Those waiters will remember no plays."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.671875,
+        "impl": -2.6875,
+        "lit": -2.8125
+      },
+      "nli": {
+        "prag": -2.015625,
+        "impl": -1.8203125,
+        "lit": -1.96875
+      },
+      "discourse": {
+        "prag": -1.9453125,
+        "impl": -1.921875,
+        "lit": -2.140625
+      }
+    }
+  },
+  {
+    "premise": "Some actresses could chuckle.",
+    "hypotheses": {
+      "prag": "Not all actresses could chuckle.",
+      "impl": "All actresses could chuckle.",
+      "lit": "No actresses could chuckle."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.71875,
+        "impl": -3.3125,
+        "lit": -4.375
+      },
+      "nli": {
+        "prag": -2.84375,
+        "impl": -2.640625,
+        "lit": -3.296875
+      },
+      "discourse": {
+        "prag": -2.75,
+        "impl": -2.765625,
+        "lit": -3.25
+      }
+    }
+  },
+  {
+    "premise": "The Clintons bothered some dancers.",
+    "hypotheses": {
+      "prag": "The Clintons didn't bother all dancers.",
+      "impl": "The Clintons bothered all dancers.",
+      "lit": "The Clintons bothered no dancers."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.453125,
+        "impl": -3.140625,
+        "lit": -3.609375
+      },
+      "nli": {
+        "prag": -1.9453125,
+        "impl": -2.484375,
+        "lit": -2.890625
+      },
+      "discourse": {
+        "prag": -2.0,
+        "impl": -2.578125,
+        "lit": -3.0
+      }
+    }
+  },
+  {
+    "premise": "Derek was praising some men.",
+    "hypotheses": {
+      "prag": "Derek wasn't praising all men.",
+      "impl": "Derek was praising all men.",
+      "lit": "Derek was praising no men."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.359375,
+        "impl": -2.34375,
+        "lit": -2.8125
+      },
+      "nli": {
+        "prag": -2.1875,
+        "impl": -2.078125,
+        "lit": -2.5625
+      },
+      "discourse": {
+        "prag": -2.171875,
+        "impl": -2.1875,
+        "lit": -2.71875
+      }
+    }
+  },
+  {
+    "premise": "Florence confused some doctors.",
+    "hypotheses": {
+      "prag": "Florence didn't confuse all doctors.",
+      "impl": "Florence confused all doctors.",
+      "lit": "Florence confused no doctors."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.859375,
+        "impl": -4.15625,
+        "lit": -4.53125
+      },
+      "nli": {
+        "prag": -3.734375,
+        "impl": -3.765625,
+        "lit": -4.28125
+      },
+      "discourse": {
+        "prag": -3.15625,
+        "impl": -3.515625,
+        "lit": -3.953125
+      }
+    }
+  },
+  {
+    "premise": "Some reports sounded like Marla.",
+    "hypotheses": {
+      "prag": "Not all reports sounded like Marla.",
+      "impl": "All reports sounded like Marla.",
+      "lit": "No reports sounded like Marla."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.046875,
+        "impl": -2.984375,
+        "lit": -4.15625
+      },
+      "nli": {
+        "prag": -2.71875,
+        "impl": -2.75,
+        "lit": -2.78125
+      },
+      "discourse": {
+        "prag": -2.296875,
+        "impl": -2.296875,
+        "lit": -2.609375
+      }
+    }
+  },
+  {
+    "premise": "Some drivers can leave Carla.",
+    "hypotheses": {
+      "prag": "Not all drivers can leave Carla.",
+      "impl": "All drivers can leave Carla.",
+      "lit": "No drivers can leave Carla."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.796875,
+        "impl": -2.625,
+        "lit": -3.453125
+      },
+      "nli": {
+        "prag": -2.28125,
+        "impl": -2.234375,
+        "lit": -2.78125
+      },
+      "discourse": {
+        "prag": -2.140625,
+        "impl": -2.484375,
+        "lit": -2.734375
+      }
+    }
+  },
+  {
+    "premise": "Judy insulted some newspaper articles.",
+    "hypotheses": {
+      "prag": "Judy didn't insult all newspaper articles.",
+      "impl": "Judy insulted all newspaper articles.",
+      "lit": "Judy insulted no newspaper articles."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.421875,
+        "impl": -2.234375,
+        "lit": -2.625
+      },
+      "nli": {
+        "prag": -2.453125,
+        "impl": -2.171875,
+        "lit": -2.609375
+      },
+      "discourse": {
+        "prag": -2.34375,
+        "impl": -2.1875,
+        "lit": -2.5625
+      }
+    }
+  },
+  {
+    "premise": "Some students should forget about who won't mutter.",
+    "hypotheses": {
+      "prag": "Not all students should forget about who won't mutter.",
+      "impl": "All students should forget about who won't mutter.",
+      "lit": "No students should forget about who won't mutter."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.40625,
+        "impl": -2.09375,
+        "lit": -2.875
+      },
+      "nli": {
+        "prag": -2.078125,
+        "impl": -1.6953125,
+        "lit": -2.125
+      },
+      "discourse": {
+        "prag": -1.8671875,
+        "impl": -1.6328125,
+        "lit": -2.046875
+      }
+    }
+  },
+  {
+    "premise": "Some legislatures were begging Rachel to yell.",
+    "hypotheses": {
+      "prag": "Not all legislatures were begging Rachel to yell.",
+      "impl": "All legislatures were begging Rachel to yell.",
+      "lit": "No legislatures were begging Rachel to yell."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -3.046875,
+        "impl": -2.796875,
+        "lit": -3.53125
+      },
+      "nli": {
+        "prag": -1.9609375,
+        "impl": -1.96875,
+        "lit": -2.0625
+      },
+      "discourse": {
+        "prag": -2.03125,
+        "impl": -1.984375,
+        "lit": -1.7890625
+      }
+    }
+  },
+  {
+    "premise": "A lot of people were walking through some cafes.",
+    "hypotheses": {
+      "prag": "A lot of people weren't walking through all cafes.",
+      "impl": "A lot of people were walking through all cafes.",
+      "lit": "A lot of people were walking through no cafes."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.453125,
+        "impl": -2.59375,
+        "lit": -2.390625
+      },
+      "nli": {
+        "prag": -2.234375,
+        "impl": -2.21875,
+        "lit": -2.34375
+      },
+      "discourse": {
+        "prag": -2.203125,
+        "impl": -2.15625,
+        "lit": -2.328125
+      }
+    }
+  },
+  {
+    "premise": "Some guys have considered Cheryl to blink.",
+    "hypotheses": {
+      "prag": "Not all guys have considered Cheryl to blink.",
+      "impl": "All guys have considered Cheryl to blink.",
+      "lit": "No guys have considered Cheryl to blink."
+    },
+    "conditions": {
+      "bare": {
+        "prag": -2.765625,
+        "impl": -2.53125,
+        "lit": -3.3125
+      },
+      "nli": {
+        "prag": -2.40625,
+        "impl": -2.0625,
+        "lit": -2.640625
+      },
+      "discourse": {
+        "prag": -2.328125,
+        "impl": -2.1875,
+        "lit": -2.46875
+      }
+    }
+  }
+]
