@@ -1,0 +1,45 @@
+# 虚拟环境
+.venv-mi/
+
+# IDE / 工具内部配置
+.claude/
+.codewhale/
+
+# 嵌套 git 仓库（RelP fork，独立管理）
+RelP/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Windows 系统文件
+%SystemDrive%/
+Thumbs.db
+desktop.ini
+
+# 运行日志（噪声大）
+stage1_multimodel/run_log.txt
+
+# 论文编译中间产物（保留 .tex/.bib，排除编译输出）
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.toc
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+
+# PDF 作为 release artifact 管理，不进主分支
+paper/*.pdf
+
+# stage4 里的中间图（make_all_figures.py 会重新生成）
+stage4_head_analysis/fig*.png
+stage1_multimodel/fig_scaling.png
+
+# 临时辅助脚本
+_push_to_github.ps1
+_fix_seq.py
+_fix_msg.py
