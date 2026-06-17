@@ -1,0 +1,2321 @@
+{
+  "model": "410m",
+  "stats": {
+    "discourse": {
+      "success_rate": 0.69,
+      "mean_prag_margin": 0.1391,
+      "std_prag_margin": 0.2755,
+      "n_success": 69,
+      "n_total": 100
+    },
+    "bare": {
+      "success_rate": 0.59,
+      "mean_prag_margin": 0.1006,
+      "std_prag_margin": 0.2834,
+      "n_success": 59,
+      "n_total": 100
+    }
+  },
+  "items": [
+    {
+      "premise": "Some teenagers criticize Guy.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.234375,
+            "impl": -3.75,
+            "lit": -4.25
+          },
+          "prag_margin": 0.5156,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.78125,
+            "impl": -5.40625,
+            "lit": -6.15625
+          },
+          "prag_margin": 0.625,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some companies command universities to chat.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.390625,
+            "impl": -2.875,
+            "lit": -2.78125
+          },
+          "prag_margin": 0.3906,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.078125,
+            "impl": -3.671875,
+            "lit": -4.46875
+          },
+          "prag_margin": 0.5938,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some cashiers exercise.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.421875,
+            "impl": -2.9375,
+            "lit": -3.28125
+          },
+          "prag_margin": 0.5156,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.8125,
+            "impl": -4.1875,
+            "lit": -4.65625
+          },
+          "prag_margin": 0.375,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "A lot of guys had hired some teachers.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.8125,
+            "impl": -2.65625,
+            "lit": -2.453125
+          },
+          "prag_margin": -0.3594,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.578125,
+            "impl": -3.4375,
+            "lit": -3.234375
+          },
+          "prag_margin": -0.3438,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some men criticized Travis.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.234375,
+            "impl": -3.375,
+            "lit": -4.21875
+          },
+          "prag_margin": 0.1406,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.8125,
+            "impl": -4.53125,
+            "lit": -5.84375
+          },
+          "prag_margin": -0.2812,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Many customers go to some hills.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.34375,
+            "impl": -2.515625,
+            "lit": -2.625
+          },
+          "prag_margin": 0.1719,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.609375,
+            "impl": -2.921875,
+            "lit": -2.859375
+          },
+          "prag_margin": 0.25,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "A dog is ascending some hills.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.78125,
+            "impl": -3.15625,
+            "lit": -3.359375
+          },
+          "prag_margin": -0.625,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.8125,
+            "impl": -3.75,
+            "lit": -3.890625
+          },
+          "prag_margin": -0.0625,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Most actors wear some glasses.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.84375,
+            "impl": -3.484375,
+            "lit": -2.765625
+          },
+          "prag_margin": -0.0781,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.296875,
+            "impl": -4.3125,
+            "lit": -3.484375
+          },
+          "prag_margin": 0.1875,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some actresses write.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.140625,
+            "impl": -3.8125,
+            "lit": -5.3125
+          },
+          "prag_margin": 0.6719,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.15625,
+            "impl": -4.6875,
+            "lit": -5.78125
+          },
+          "prag_margin": 0.5312,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some doctors had disagreed.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.3125,
+            "impl": -3.625,
+            "lit": -4.0
+          },
+          "prag_margin": 0.3125,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.4375,
+            "impl": -4.4375,
+            "lit": -5.1875
+          },
+          "prag_margin": 0.0,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some actresses did react.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.25,
+            "impl": -3.375,
+            "lit": -4.21875
+          },
+          "prag_margin": 0.125,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.375,
+            "impl": -4.25,
+            "lit": -5.21875
+          },
+          "prag_margin": -0.125,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some boys play.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.984375,
+            "impl": -3.203125,
+            "lit": -3.984375
+          },
+          "prag_margin": 0.2188,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.34375,
+            "impl": -4.96875,
+            "lit": -5.96875
+          },
+          "prag_margin": 0.625,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "The teacher resembles some sketches.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.09375,
+            "impl": -3.203125,
+            "lit": -3.265625
+          },
+          "prag_margin": 0.1094,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.90625,
+            "impl": -4.53125,
+            "lit": -4.4375
+          },
+          "prag_margin": 0.5312,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "This dancer would hire some customers.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.59375,
+            "impl": -2.484375,
+            "lit": -2.25
+          },
+          "prag_margin": -0.3438,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.765625,
+            "impl": -2.796875,
+            "lit": -2.890625
+          },
+          "prag_margin": 0.0312,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some dresses tighten.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.953125,
+            "impl": -3.453125,
+            "lit": -4.1875
+          },
+          "prag_margin": 0.5,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.875,
+            "impl": -3.84375,
+            "lit": -4.96875
+          },
+          "prag_margin": -0.0312,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Karen explores some public parks.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.671875,
+            "impl": -4.28125,
+            "lit": -4.5
+          },
+          "prag_margin": 0.6094,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.859375,
+            "impl": -4.0625,
+            "lit": -4.46875
+          },
+          "prag_margin": 0.2031,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Regina exited some cafes.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.71875,
+            "impl": -2.875,
+            "lit": -3.171875
+          },
+          "prag_margin": 0.1562,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.375,
+            "impl": -3.21875,
+            "lit": -3.484375
+          },
+          "prag_margin": -0.1562,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some boys forget about what tightens.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.265625,
+            "impl": -2.46875,
+            "lit": -2.9375
+          },
+          "prag_margin": 0.2031,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.953125,
+            "impl": -3.078125,
+            "lit": -3.53125
+          },
+          "prag_margin": 0.125,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Most actors impress some organizations.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.421875,
+            "impl": -2.59375,
+            "lit": -2.640625
+          },
+          "prag_margin": 0.1719,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.859375,
+            "impl": -3.5,
+            "lit": -3.546875
+          },
+          "prag_margin": 0.6406,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some cashiers had concealed David.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.546875,
+            "impl": -2.609375,
+            "lit": -2.765625
+          },
+          "prag_margin": 0.0625,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.515625,
+            "impl": -3.140625,
+            "lit": -3.359375
+          },
+          "prag_margin": -0.375,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Those guests do boast about some stories.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.34375,
+            "impl": -2.28125,
+            "lit": -2.234375
+          },
+          "prag_margin": -0.1094,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.203125,
+            "impl": -3.375,
+            "lit": -3.078125
+          },
+          "prag_margin": -0.125,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Thomas revealed some gates.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.296875,
+            "impl": -4.4375,
+            "lit": -3.828125
+          },
+          "prag_margin": 0.5312,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.890625,
+            "impl": -4.78125,
+            "lit": -4.21875
+          },
+          "prag_margin": 0.3281,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some blouses had warped.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.28125,
+            "impl": -2.296875,
+            "lit": -2.484375
+          },
+          "prag_margin": 0.0156,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.0625,
+            "impl": -3.078125,
+            "lit": -3.515625
+          },
+          "prag_margin": 0.0156,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some customers might play.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.9375,
+            "impl": -3.71875,
+            "lit": -4.0625
+          },
+          "prag_margin": 0.7812,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.875,
+            "impl": -4.65625,
+            "lit": -5.59375
+          },
+          "prag_margin": 0.7812,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Brett has healed some actresses.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.96875,
+            "impl": -3.015625,
+            "lit": -3.296875
+          },
+          "prag_margin": 0.0469,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.703125,
+            "impl": -3.890625,
+            "lit": -4.375
+          },
+          "prag_margin": 0.1875,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some guys were cooking.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.390625,
+            "impl": -3.90625,
+            "lit": -4.125
+          },
+          "prag_margin": 0.5156,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.71875,
+            "impl": -4.96875,
+            "lit": -5.3125
+          },
+          "prag_margin": 0.25,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some waiters performed.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.734375,
+            "impl": -2.90625,
+            "lit": -3.28125
+          },
+          "prag_margin": 0.1719,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.921875,
+            "impl": -3.875,
+            "lit": -4.6875
+          },
+          "prag_margin": -0.0469,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some blouses warped.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.5,
+            "impl": -2.75,
+            "lit": -3.078125
+          },
+          "prag_margin": 0.25,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.125,
+            "impl": -3.375,
+            "lit": -4.1875
+          },
+          "prag_margin": 0.25,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some people were wearing the scarves.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.1875,
+            "impl": -2.296875,
+            "lit": -2.296875
+          },
+          "prag_margin": 0.1094,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.90625,
+            "impl": -2.984375,
+            "lit": -3.40625
+          },
+          "prag_margin": 0.0781,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some pants have frayed.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.21875,
+            "impl": -2.515625,
+            "lit": -2.734375
+          },
+          "prag_margin": 0.2969,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.84375,
+            "impl": -3.109375,
+            "lit": -3.265625
+          },
+          "prag_margin": 0.2656,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Many senators tour some schools.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.9375,
+            "impl": -3.390625,
+            "lit": -3.765625
+          },
+          "prag_margin": 0.4531,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.765625,
+            "impl": -4.0625,
+            "lit": -4.375
+          },
+          "prag_margin": 0.2969,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "The actress could research some photographs.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.515625,
+            "impl": -3.359375,
+            "lit": -3.390625
+          },
+          "prag_margin": -0.1562,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.1875,
+            "impl": -3.890625,
+            "lit": -3.953125
+          },
+          "prag_margin": -0.2969,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some actors will predict many blouses to soak.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -1.7734375,
+            "impl": -1.796875,
+            "lit": -2.109375
+          },
+          "prag_margin": 0.0234,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.0,
+            "impl": -2.8125,
+            "lit": -3.328125
+          },
+          "prag_margin": -0.1875,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some blouses shrank.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.46875,
+            "impl": -2.671875,
+            "lit": -2.859375
+          },
+          "prag_margin": 0.2031,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.578125,
+            "impl": -3.359375,
+            "lit": -3.921875
+          },
+          "prag_margin": -0.2188,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Derek passed some public parks.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.78125,
+            "impl": -3.015625,
+            "lit": -3.203125
+          },
+          "prag_margin": 0.2344,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.859375,
+            "impl": -3.09375,
+            "lit": -3.53125
+          },
+          "prag_margin": 0.2344,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Janet has cared for some girls.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.6875,
+            "impl": -2.484375,
+            "lit": -2.53125
+          },
+          "prag_margin": -0.2031,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.0625,
+            "impl": -2.875,
+            "lit": -3.0
+          },
+          "prag_margin": -0.1875,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some women are needing the library to conspire.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.15625,
+            "impl": -2.234375,
+            "lit": -2.546875
+          },
+          "prag_margin": 0.0781,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.84375,
+            "impl": -2.8125,
+            "lit": -3.578125
+          },
+          "prag_margin": -0.0312,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some drivers would research the governments.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.65625,
+            "impl": -3.0,
+            "lit": -3.203125
+          },
+          "prag_margin": 0.3438,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.34375,
+            "impl": -3.515625,
+            "lit": -4.15625
+          },
+          "prag_margin": 0.1719,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some jackets had shrunk.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.390625,
+            "impl": -2.578125,
+            "lit": -2.90625
+          },
+          "prag_margin": 0.1875,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.703125,
+            "impl": -3.234375,
+            "lit": -3.609375
+          },
+          "prag_margin": 0.5312,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some rabbits will leave.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.640625,
+            "impl": -3.03125,
+            "lit": -3.59375
+          },
+          "prag_margin": 0.3906,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.4375,
+            "impl": -3.953125,
+            "lit": -4.28125
+          },
+          "prag_margin": 0.5156,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some patients forfeit.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.734375,
+            "impl": -3.28125,
+            "lit": -3.84375
+          },
+          "prag_margin": 0.5469,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.578125,
+            "impl": -3.671875,
+            "lit": -4.8125
+          },
+          "prag_margin": 0.0938,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some waiters do reunite.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.515625,
+            "impl": -2.578125,
+            "lit": -2.875
+          },
+          "prag_margin": 0.0625,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.828125,
+            "impl": -2.828125,
+            "lit": -3.640625
+          },
+          "prag_margin": 0.0,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "The child remembers some ladies.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.84375,
+            "impl": -3.015625,
+            "lit": -2.984375
+          },
+          "prag_margin": 0.1406,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.3125,
+            "impl": -3.671875,
+            "lit": -3.515625
+          },
+          "prag_margin": 0.2031,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some companies proposed to buy that pie.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.484375,
+            "impl": -2.4375,
+            "lit": -2.65625
+          },
+          "prag_margin": -0.0469,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.0625,
+            "impl": -2.8125,
+            "lit": -3.453125
+          },
+          "prag_margin": -0.25,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Sheila has returned to some grocery stores.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.34375,
+            "impl": -2.3125,
+            "lit": -2.28125
+          },
+          "prag_margin": -0.0625,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.03125,
+            "impl": -3.046875,
+            "lit": -3.0625
+          },
+          "prag_margin": 0.0156,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some girls are saluting.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.40625,
+            "impl": -2.546875,
+            "lit": -3.109375
+          },
+          "prag_margin": 0.1406,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.171875,
+            "impl": -3.640625,
+            "lit": -4.0625
+          },
+          "prag_margin": 0.4688,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Martha could criticize some people.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.046875,
+            "impl": -2.8125,
+            "lit": -3.515625
+          },
+          "prag_margin": -0.2344,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.34375,
+            "impl": -3.296875,
+            "lit": -4.0
+          },
+          "prag_margin": -0.0469,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some gloves should loosen.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.265625,
+            "impl": -2.234375,
+            "lit": -2.46875
+          },
+          "prag_margin": -0.0312,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.28125,
+            "impl": -3.25,
+            "lit": -3.875
+          },
+          "prag_margin": -0.0312,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Amelia might exit some schools.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.28125,
+            "impl": -2.484375,
+            "lit": -3.21875
+          },
+          "prag_margin": 0.2031,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.6875,
+            "impl": -2.953125,
+            "lit": -3.515625
+          },
+          "prag_margin": 0.2656,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some people had questioned Steven.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.71875,
+            "impl": -4.21875,
+            "lit": -4.3125
+          },
+          "prag_margin": 0.5,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.40625,
+            "impl": -4.78125,
+            "lit": -5.0625
+          },
+          "prag_margin": 0.375,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some senators are trying to stun Larry.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.265625,
+            "impl": -2.421875,
+            "lit": -2.8125
+          },
+          "prag_margin": 0.1562,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.96875,
+            "impl": -2.75,
+            "lit": -3.25
+          },
+          "prag_margin": -0.2188,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Stephanie might escape from some guests.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -1.9140625,
+            "impl": -1.9296875,
+            "lit": -2.53125
+          },
+          "prag_margin": 0.0156,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.53125,
+            "impl": -2.5,
+            "lit": -2.875
+          },
+          "prag_margin": -0.0312,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Nina will describe some students.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.390625,
+            "impl": -3.59375,
+            "lit": -4.0
+          },
+          "prag_margin": 0.2031,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.1875,
+            "impl": -4.0,
+            "lit": -4.5625
+          },
+          "prag_margin": -0.1875,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "This patient could admire some cats.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.75,
+            "impl": -2.59375,
+            "lit": -2.875
+          },
+          "prag_margin": -0.1562,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.65625,
+            "impl": -2.875,
+            "lit": -3.125
+          },
+          "prag_margin": 0.2188,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some senators are longing to drink.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.171875,
+            "impl": -3.203125,
+            "lit": -3.71875
+          },
+          "prag_margin": 0.0312,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.421875,
+            "impl": -3.453125,
+            "lit": -4.71875
+          },
+          "prag_margin": 0.0312,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some people are tempting some dancers' brothers to reunite.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.0625,
+            "impl": -1.875,
+            "lit": -2.09375
+          },
+          "prag_margin": -0.1875,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.609375,
+            "impl": -2.453125,
+            "lit": -2.75
+          },
+          "prag_margin": -0.1562,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Aaron had talked about some cashiers.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.21875,
+            "impl": -3.25,
+            "lit": -2.953125
+          },
+          "prag_margin": -0.2656,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.59375,
+            "impl": -3.671875,
+            "lit": -3.4375
+          },
+          "prag_margin": -0.1562,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some organizations induced Jane's grandmother to move.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -1.8515625,
+            "impl": -1.9453125,
+            "lit": -2.1875
+          },
+          "prag_margin": 0.0938,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.515625,
+            "impl": -2.765625,
+            "lit": -3.203125
+          },
+          "prag_margin": 0.25,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Leslie should sell some pies.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -1.859375,
+            "impl": -1.8359375,
+            "lit": -1.96875
+          },
+          "prag_margin": -0.0234,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.3125,
+            "impl": -2.421875,
+            "lit": -2.640625
+          },
+          "prag_margin": 0.1094,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Andrew could approach some waitresses.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.765625,
+            "impl": -2.703125,
+            "lit": -3.109375
+          },
+          "prag_margin": -0.0625,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.96875,
+            "impl": -3.09375,
+            "lit": -3.265625
+          },
+          "prag_margin": 0.125,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Homer would heal some women.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.59375,
+            "impl": -2.59375,
+            "lit": -2.984375
+          },
+          "prag_margin": 0.0,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.03125,
+            "impl": -3.21875,
+            "lit": -3.734375
+          },
+          "prag_margin": 0.1875,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some waiters remembered some students.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.796875,
+            "impl": -2.578125,
+            "lit": -2.890625
+          },
+          "prag_margin": -0.2188,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.265625,
+            "impl": -3.21875,
+            "lit": -3.171875
+          },
+          "prag_margin": -0.0938,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some people should reference the essays.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.359375,
+            "impl": -2.859375,
+            "lit": -3.234375
+          },
+          "prag_margin": 0.5,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.796875,
+            "impl": -3.40625,
+            "lit": -3.59375
+          },
+          "prag_margin": 0.6094,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some screens had tipped over.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.953125,
+            "impl": -3.109375,
+            "lit": -3.546875
+          },
+          "prag_margin": 0.1562,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.953125,
+            "impl": -3.6875,
+            "lit": -4.03125
+          },
+          "prag_margin": -0.2656,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some bicycles do roll.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.421875,
+            "impl": -2.515625,
+            "lit": -3.3125
+          },
+          "prag_margin": 0.0938,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.328125,
+            "impl": -3.484375,
+            "lit": -4.15625
+          },
+          "prag_margin": 0.1562,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some students had complained.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.421875,
+            "impl": -3.65625,
+            "lit": -4.1875
+          },
+          "prag_margin": 0.2344,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.53125,
+            "impl": -4.40625,
+            "lit": -5.3125
+          },
+          "prag_margin": -0.125,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some actresses had longed to annoy this pedestrian.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.09375,
+            "impl": -1.9375,
+            "lit": -2.3125
+          },
+          "prag_margin": -0.1562,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.6875,
+            "impl": -2.484375,
+            "lit": -2.9375
+          },
+          "prag_margin": -0.2031,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Clyde does help some students.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.5625,
+            "impl": -2.984375,
+            "lit": -3.53125
+          },
+          "prag_margin": 0.4219,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.03125,
+            "impl": -3.515625,
+            "lit": -4.03125
+          },
+          "prag_margin": 0.4844,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some dancers are lifting the apple.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.296875,
+            "impl": -2.265625,
+            "lit": -2.765625
+          },
+          "prag_margin": -0.0312,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.78125,
+            "impl": -3.0,
+            "lit": -3.21875
+          },
+          "prag_margin": 0.2188,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some coats would loosen.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.875,
+            "impl": -3.0625,
+            "lit": -3.4375
+          },
+          "prag_margin": 0.1875,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.828125,
+            "impl": -3.75,
+            "lit": -4.28125
+          },
+          "prag_margin": -0.0781,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some men were leaving.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.125,
+            "impl": -3.28125,
+            "lit": -3.625
+          },
+          "prag_margin": 0.1562,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.09375,
+            "impl": -4.1875,
+            "lit": -4.84375
+          },
+          "prag_margin": 0.0938,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some adults have concealed the newspaper articles.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.1875,
+            "impl": -2.4375,
+            "lit": -2.5625
+          },
+          "prag_margin": 0.25,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.734375,
+            "impl": -2.9375,
+            "lit": -3.34375
+          },
+          "prag_margin": 0.2031,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some dancers can chat.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.59375,
+            "impl": -2.84375,
+            "lit": -3.53125
+          },
+          "prag_margin": 0.25,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.03125,
+            "impl": -4.875,
+            "lit": -4.8125
+          },
+          "prag_margin": 0.7812,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some children questioned Keith.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.203125,
+            "impl": -3.625,
+            "lit": -3.65625
+          },
+          "prag_margin": 0.4219,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.78125,
+            "impl": -5.0,
+            "lit": -5.5625
+          },
+          "prag_margin": 0.2188,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some guests would wake up.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.34375,
+            "impl": -2.765625,
+            "lit": -3.140625
+          },
+          "prag_margin": 0.4219,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.453125,
+            "impl": -3.421875,
+            "lit": -4.03125
+          },
+          "prag_margin": -0.0312,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Anna was driving to some schools.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.109375,
+            "impl": -3.078125,
+            "lit": -3.421875
+          },
+          "prag_margin": -0.0312,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.671875,
+            "impl": -3.734375,
+            "lit": -3.75
+          },
+          "prag_margin": 0.0625,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "The customers worries some companies.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.734375,
+            "impl": -3.109375,
+            "lit": -3.609375
+          },
+          "prag_margin": 0.375,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.3125,
+            "impl": -3.671875,
+            "lit": -4.3125
+          },
+          "prag_margin": 0.3594,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some guys come here.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.859375,
+            "impl": -3.625,
+            "lit": -3.953125
+          },
+          "prag_margin": 0.7656,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.1875,
+            "impl": -4.5625,
+            "lit": -4.8125
+          },
+          "prag_margin": 0.375,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some doctors hid.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.453125,
+            "impl": -4.34375,
+            "lit": -4.34375
+          },
+          "prag_margin": 0.8906,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.40625,
+            "impl": -5.125,
+            "lit": -5.8125
+          },
+          "prag_margin": 0.7188,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Patients talk about some actresses.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.390625,
+            "impl": -2.765625,
+            "lit": -3.328125
+          },
+          "prag_margin": 0.375,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.875,
+            "impl": -3.203125,
+            "lit": -3.6875
+          },
+          "prag_margin": 0.3281,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some horses ascended these stairs.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.390625,
+            "impl": -2.671875,
+            "lit": -2.640625
+          },
+          "prag_margin": 0.25,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.1875,
+            "impl": -3.265625,
+            "lit": -3.265625
+          },
+          "prag_margin": 0.0781,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Winston Churchill had fixed some plates.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.8125,
+            "impl": -2.65625,
+            "lit": -2.734375
+          },
+          "prag_margin": -0.1562,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.359375,
+            "impl": -3.34375,
+            "lit": -3.3125
+          },
+          "prag_margin": -0.0469,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some adults had attacked that student.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.84375,
+            "impl": -2.828125,
+            "lit": -3.125
+          },
+          "prag_margin": -0.0156,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.578125,
+            "impl": -3.65625,
+            "lit": -3.84375
+          },
+          "prag_margin": 0.0781,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "All sweaters hurt some dancers.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.5625,
+            "impl": -2.0,
+            "lit": -2.71875
+          },
+          "prag_margin": -0.5625,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.703125,
+            "impl": -2.28125,
+            "lit": -2.703125
+          },
+          "prag_margin": -0.4219,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some dancers will bring these hills.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.609375,
+            "impl": -2.796875,
+            "lit": -3.03125
+          },
+          "prag_margin": 0.1875,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.953125,
+            "impl": -2.71875,
+            "lit": -3.203125
+          },
+          "prag_margin": -0.2344,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Julie looked like some paintings.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.625,
+            "impl": -2.875,
+            "lit": -2.59375
+          },
+          "prag_margin": -0.0312,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.96875,
+            "impl": -3.140625,
+            "lit": -2.765625
+          },
+          "prag_margin": -0.2031,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "This spotlight was distracting some banks.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.515625,
+            "impl": -2.375,
+            "lit": -3.046875
+          },
+          "prag_margin": -0.1406,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.75,
+            "impl": -2.546875,
+            "lit": -3.1875
+          },
+          "prag_margin": -0.2031,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "These senators can exit some lakes.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.5625,
+            "impl": -2.328125,
+            "lit": -3.046875
+          },
+          "prag_margin": -0.2344,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.75,
+            "impl": -2.84375,
+            "lit": -3.53125
+          },
+          "prag_margin": 0.0938,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Those waiters will remember some plays.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.34375,
+            "impl": -2.1875,
+            "lit": -2.21875
+          },
+          "prag_margin": -0.1562,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.734375,
+            "impl": -2.765625,
+            "lit": -2.765625
+          },
+          "prag_margin": 0.0312,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some actresses could chuckle.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.65625,
+            "impl": -2.671875,
+            "lit": -3.296875
+          },
+          "prag_margin": 0.0156,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.390625,
+            "impl": -3.671875,
+            "lit": -4.53125
+          },
+          "prag_margin": 0.2812,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "The Clintons bothered some dancers.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -1.9296875,
+            "impl": -2.390625,
+            "lit": -2.46875
+          },
+          "prag_margin": 0.4609,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.46875,
+            "impl": -2.953125,
+            "lit": -3.078125
+          },
+          "prag_margin": 0.4844,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Derek was praising some men.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.3125,
+            "impl": -2.234375,
+            "lit": -2.59375
+          },
+          "prag_margin": -0.0781,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.453125,
+            "impl": -2.453125,
+            "lit": -2.921875
+          },
+          "prag_margin": 0.0,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Florence confused some doctors.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.34375,
+            "impl": -3.578125,
+            "lit": -4.03125
+          },
+          "prag_margin": 0.2344,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -4.875,
+            "impl": -4.75,
+            "lit": -5.15625
+          },
+          "prag_margin": -0.125,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some reports sounded like Marla.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.3125,
+            "impl": -2.40625,
+            "lit": -2.875
+          },
+          "prag_margin": 0.0938,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.0625,
+            "impl": -2.65625,
+            "lit": -3.578125
+          },
+          "prag_margin": -0.4062,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some drivers can leave Carla.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -1.8828125,
+            "impl": -2.21875,
+            "lit": -2.375
+          },
+          "prag_margin": 0.3359,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.015625,
+            "impl": -3.078125,
+            "lit": -3.375
+          },
+          "prag_margin": 0.0625,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Judy insulted some newspaper articles.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -3.078125,
+            "impl": -2.9375,
+            "lit": -2.921875
+          },
+          "prag_margin": -0.1562,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.640625,
+            "impl": -3.21875,
+            "lit": -3.359375
+          },
+          "prag_margin": -0.4219,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some students should forget about who won't mutter.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -1.8046875,
+            "impl": -1.875,
+            "lit": -2.078125
+          },
+          "prag_margin": 0.0703,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.375,
+            "impl": -2.4375,
+            "lit": -2.84375
+          },
+          "prag_margin": 0.0625,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "Some legislatures were begging Rachel to yell.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.171875,
+            "impl": -2.21875,
+            "lit": -2.234375
+          },
+          "prag_margin": 0.0469,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.03125,
+            "impl": -3.046875,
+            "lit": -3.46875
+          },
+          "prag_margin": 0.0156,
+          "success": true
+        }
+      }
+    },
+    {
+      "premise": "A lot of people were walking through some cafes.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.21875,
+            "impl": -2.09375,
+            "lit": -2.015625
+          },
+          "prag_margin": -0.2031,
+          "success": false
+        },
+        "bare": {
+          "scores": {
+            "prag": -2.828125,
+            "impl": -2.734375,
+            "lit": -2.609375
+          },
+          "prag_margin": -0.2188,
+          "success": false
+        }
+      }
+    },
+    {
+      "premise": "Some guys have considered Cheryl to blink.",
+      "templates": {
+        "discourse": {
+          "scores": {
+            "prag": -2.09375,
+            "impl": -2.328125,
+            "lit": -2.671875
+          },
+          "prag_margin": 0.2344,
+          "success": true
+        },
+        "bare": {
+          "scores": {
+            "prag": -3.25,
+            "impl": -3.171875,
+            "lit": -3.484375
+          },
+          "prag_margin": -0.0781,
+          "success": false
+        }
+      }
+    }
+  ]
+}
