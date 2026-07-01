@@ -1,0 +1,44 @@
+{
+  "categories": [
+    "bos",
+    "struct",
+    "quant",
+    "content",
+    "self"
+  ],
+  "discourse": {
+    "mean": {
+      "bos": 0.1116,
+      "struct": 0.861,
+      "quant": 0.0001,
+      "content": 0.0049,
+      "self": 0.0224
+    },
+    "std": {
+      "bos": 0.0249,
+      "struct": 0.0241,
+      "quant": 0.0001,
+      "content": 0.0041,
+      "self": 0.0025
+    }
+  },
+  "bare": {
+    "mean": {
+      "bos": 0.131,
+      "struct": 0.0,
+      "quant": 0.0001,
+      "content": 0.8405,
+      "self": 0.0285
+    },
+    "std": {
+      "bos": 0.0367,
+      "struct": 0.0,
+      "quant": 0.0001,
+      "content": 0.0371,
+      "self": 0.0055
+    }
+  },
+  "discourse_struct_vs_content_ratio": 175.4866,
+  "interpretation": "structural_head",
+  "n_items": 100
+}
